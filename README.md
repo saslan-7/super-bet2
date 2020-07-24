@@ -13,4 +13,6 @@ The algorithm outputs the following files:
 
 Most people are interested in the inskull brain mask, i.e. filename_superBET2_inskull_mask.nii.gz.
 
-NOTE: This program may not work well if there is large amount of fat between the skin and the skull.
+<img src="brainMask.jpg">
+
+NOTE: This program may not work well if there is a too much fat between the scalp and the skull.
