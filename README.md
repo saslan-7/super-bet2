@@ -3,10 +3,10 @@ Super Brain Extraction Tool (SUPER-BET2) derived from FMRIB Software Library (FS
 
 The algorithm outputs the following files:
 
-<br />filename_superBET2_inskull_mask.nii.gz
-<br />filename_superBET2_outskin_mask.nii.gz
-<br />filename_superBET2_outskull_mask.nii.gz
-<br />filename_superBET2_skull_mask.nii.gz
+filename_superBET2_inskull_mask.nii.gz <br />
+filename_superBET2_outskin_mask.nii.gz <br />
+filename_superBET2_outskull_mask.nii.gz <br />
+filename_superBET2_skull_mask.nii.gz <br />
 
 Most people are interested in the inskull brain mask, i.e. filename_superBET2_inskull_mask.nii.gz.
 
